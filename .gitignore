@@ -1,1 +1,4 @@
 data/*
+Notebooks/BND_lstm_model.pth
+Notebooks/SPY_lstm_model.pth
+Notebooks/TSLA_lstm_model.pth
