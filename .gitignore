@@ -8,3 +8,6 @@ Notebooks/arima_model_TSLA.joblib
 Notebooks/sarima_model_BND.pkl
 Notebooks/sarima_model_SPY.pkl
 Notebooks/sarima_model_TSLA.pkl
+Notebooks/BND_scaler.pkl
+Notebooks/TSLA_scaler.pkl
+Notebooks/SPY_scaler.pkl
